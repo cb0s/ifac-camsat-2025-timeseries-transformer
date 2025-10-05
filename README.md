@@ -25,6 +25,9 @@ We tested this project with python 3.11 and 3.12, and the library versions defin
 ### Directly begin training
 
 For training, we used `notebooks/train.ipynb`.
+The data and the pretrained model are available through [git-lfs](https://git-lfs.com/) which is a dependency that must
+be installed before the appropriate files can be downloaded.
+The prepared datasets are then available in `data/`, while the models are available in `models/`.
 
 ### Start with the data
 
